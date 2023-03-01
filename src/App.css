@@ -12,7 +12,28 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.nav-list li{
+  display: inline-block;
+  padding: 10px;
+}
+.footer{
+  position: absolute;
+  text-align: center;
+  bottom: 0%;
+  width: 100%;
+  background-color: skyblue;
 
+}
+.nav-list li a{
+  color: #fff;
+  padding: 5px;
+  text-decoration: none;
+}
+.nav-list {
+  padding: 5px;
+  margin: 0;
+  background-color: skyblue;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
