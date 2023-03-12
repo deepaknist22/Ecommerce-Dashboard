@@ -24,6 +24,26 @@
   background-color: skyblue;
 
 }
+.button{
+  margin: 25px;
+  padding: 10px;
+  width: 150px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
+.inputBox{
+  display: block;
+  margin: 10px;
+  padding: 10px;
+  width: 500px;
+
+}
+
+.register{
+  margin-left: 30%;
+
+}
 .nav-list li a{
   color: #fff;
   padding: 5px;
